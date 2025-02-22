@@ -1,0 +1,12 @@
+attrs==20.3.0
+gym==0.26.2
+matplotlib==3.9.4
+numpy==1.26.4
+pandas==2.2.3
+pytest==8.3.4
+ruff==0.9.7
+sb3-contrib==2.5.0
+shimmy==2.0.0
+stable-baselines3[extra]==2.5.0
+statsmodels==0.14.4
+tensorflow==2.18.0

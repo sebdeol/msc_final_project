@@ -1,0 +1,6 @@
+market_data.csv
+.venv/
+.pytest_cache/
+.ruff_cache/
+simulation.log
+**.pyc
