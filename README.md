@@ -1,6 +1,6 @@
 # MSc Computer Science Dissertation Project
 
-This repository contains the code and analysis supporting my MSc MSc Computer Science dissertation at the University of Essex Online. The research investigates the impact of algorithmic trading on market quality through both empirical analysis and agent-based simulation.
+This repository contains the code and analysis supporting my MSc Computer Science dissertation at the University of Essex Online. The research investigates the impact of algorithmic trading on market quality through both empirical analysis and agent-based simulation.
 
 ## Research Overview
 
